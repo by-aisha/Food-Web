@@ -1,7 +1,6 @@
 # 🚀 Project Link
 
-🔗 **Live Demo:** [Click Here](https://your-project-link.com)  
-🔗 **GitHub Repo:** [View Code](https://github.com/your-username/your-repo)
+**Live Demo:** [Click Here](order-on-the-go-ochre.vercel.app)  
 
 
 
@@ -20,25 +19,22 @@
 
 
 ## ✨ Features  
-
-- User-friendly interface  
+  
 - Responsive design  
-- Fast performance  
-- Authentication (if any)  
-- API integration (if any)  
+- Category-wise food filtering
+- Clean and modern user interface
+- Add to cart UI  
+- Smooth navigation between pages 
 
 
 
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-HTML | CSS | JavaScript | React  
+HTML | CSS | JavaScript | React.js 
 
-**Backend:**  
-Node.js | Express.js  
-
-**Database:**  
-MongoDB / MySQL  
+**Styling:**  
+CSS 
 
 
 
