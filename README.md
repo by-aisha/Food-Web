@@ -1,0 +1,49 @@
+# 🚀 Project Link
+
+🔗 **Live Demo:** [Click Here](https://your-project-link.com)  
+🔗 **GitHub Repo:** [View Code](https://github.com/your-username/your-repo)
+
+---
+
+## 🍜 OrderOnTheGo : A responsive frontend food ordering web application that allows users to browse menus and explore food items through a clean and interactive user interface.
+
+---
+
+## 📷 Screenshots  
+
+![Home Page](./)  
+![Login Page](./images/login.png)  
+![Dashboard](./images/dashboard.png)  
+
+---
+
+## ✨ Features  
+
+- User-friendly interface  
+- Responsive design  
+- Fast performance  
+- Authentication (if any)  
+- API integration (if any)  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+HTML | CSS | JavaScript | React  
+
+**Backend:**  
+Node.js | Express.js  
+
+**Database:**  
+MongoDB / MySQL  
+
+---
+
+## ⚙️ Installation  
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
+npm start
