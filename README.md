@@ -45,7 +45,7 @@ MongoDB / MySQL
 ## ⚙️ Installation  
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/by-aisha/Food-Web.git
+cd Food-Web
 npm install
 npm start
